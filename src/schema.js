@@ -45,7 +45,7 @@ const typeDefs = gql`
     numberOfViews: Int
     "The track's complete array of Modules"
     modules: [Module!]!
-    "The track's full duration, in seconds"
+    "The track's full duration, in seconds tesstinssss word"
     durationInSeconds: Int
   }
 
